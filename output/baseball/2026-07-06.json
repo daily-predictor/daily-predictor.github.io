@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-06",
+  "sport": "baseball",
+  "predictions": [
+    {
+      "match": "Kansas City Royals vs Philadelphia Phillies",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Tampa Bay Rays vs New York Yankees",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Washington Nationals vs Houston Astros",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Atlanta Braves vs New York Mets",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "St. Louis Cardinals vs Milwaukee Brewers",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "San Diego Padres vs Arizona Diamondbacks",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "San Francisco Giants vs Toronto Blue Jays",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Los Angeles Dodgers vs Colorado Rockies",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    }
+  ],
+  "generated_at": "2026-07-06T05:00:00Z"
+}
