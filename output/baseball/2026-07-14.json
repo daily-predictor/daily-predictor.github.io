@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-14",
+  "sport": "baseball",
+  "predictions": [
+    {
+      "match": "National League All-Stars vs American League All-Stars",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    }
+  ],
+  "generated_at": "2026-07-14T05:00:00Z"
+}
