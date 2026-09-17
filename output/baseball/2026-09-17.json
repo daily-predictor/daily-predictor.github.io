@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-17",
+  "sport": "baseball",
+  "predictions": [
+    {
+      "match": "Pittsburgh Pirates vs Milwaukee Brewers",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Cincinnati Reds vs Los Angeles Dodgers",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Tampa Bay Rays vs Athletics",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Colorado Rockies vs San Diego Padres",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Houston Astros vs Kansas City Royals",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "New York Mets vs Philadelphia Phillies",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Chicago White Sox vs Detroit Tigers",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Texas Rangers vs Boston Red Sox",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Los Angeles Angels vs Minnesota Twins",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    }
+  ],
+  "generated_at": "2026-09-17T05:00:00Z"
+}
