@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-24",
+  "sport": "baseball",
+  "predictions": [
+    {
+      "match": "Pittsburgh Pirates vs St. Louis Cardinals",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Kansas City Royals vs Chicago White Sox",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Chicago Cubs vs Miami Marlins",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Texas Rangers vs New York Mets",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Colorado Rockies vs Arizona Diamondbacks",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Philadelphia Phillies vs Milwaukee Brewers",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Boston Red Sox vs Cleveland Guardians",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "New York Yankees vs Tampa Bay Rays",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Atlanta Braves vs Cincinnati Reds",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Athletics vs Houston Astros",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Seattle Mariners vs Los Angeles Angels",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    },
+    {
+      "match": "Los Angeles Dodgers vs San Diego Padres",
+      "p_home": 0.2826,
+      "p_away": 0.592,
+      "fair_odds_home": 3.54,
+      "market_odds_home": null,
+      "ev_home": null,
+      "ou_over": 0.2461
+    }
+  ],
+  "generated_at": "2026-09-24T05:00:00Z"
+}
